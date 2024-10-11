@@ -8,5 +8,5 @@ Repositório das atividades (HTML) da disciplina de WEB I
 Lista de Atividades:
 - Atividade 1
 - Atividade 2
-- [Link para o arquivo HTML](exercicio1.html)
-- [teste para ir para a pasta](pasta/exercicio1.html)
+- [Link para o arquivo HTML](exercício1.html)
+- [teste para ir para a pasta](pasta/exercício1.html)
